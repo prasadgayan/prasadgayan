@@ -10,17 +10,12 @@
 
 - 📝 I regularly write articles on [https://frontXcode.com](https://frontXcode.com)
 
-- 📫 How to reach me **prasadgayan@hotmail.com**
+- 📫 How to reach me **dilprasad@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="https://codepen.io/prasadgayan" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="prasadgayan" height="30" width="40" /></a>
+    
     <a href="https://linkedin.com/in/prasadgayan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="prasadgayan" height="30" width="40" /></a>
@@ -32,6 +27,9 @@
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg"
             alt="https://frontxcode.com/feed/" height="30" width="40" /></a>
+        <a href="https://codepen.io/prasadgayan" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+            alt="prasadgayan" height="30" width="40" /></a>
 </p>
 
 <h3>Streak Stats</h3>
@@ -126,14 +124,7 @@
 </p>
 
 - Testing
-<p align="left">
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>
-
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-            alt="selenium" width="40" height="40" /> </a>
-</p>
+<p align="left"> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 - Software
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
