@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prasad Gayan.</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1500&color=B91BE4&center=true&width=600&lines=Well+experienced+UI%2FUX+engineer;Having+10%2B+years+of+development+experience;Learning+latest+Trends+%26+Best+Practices;A+passionate+fullstack+developer+from+Sri+Lanka" alt="Typing SVG" /></a>
+</h3>
 
 <p align="left"> <img
         src="https://komarev.com/ghpvc/?username=prasadgayan&label=Profile%20views&color=0e75b6&style=flat"
@@ -10,38 +12,38 @@
 
 - 📝 I regularly write articles on [https://frontXcode.com](https://frontXcode.com)
 
-- 📫 How to reach me **prasadgayan@hotmail.com**
+- 📫 How to reach me **dilprasad@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<details open> 
+  <summary><h2>Conect with me</h2></summary>
 <p align="left">
-    <a href="https://codepen.io/prasadgayan" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
-            alt="prasadgayan" height="30" width="40" /></a>
     <a href="https://linkedin.com/in/prasadgayan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="prasadgayan" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/3440497" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="3440497" height="30" width="40" /></a>
-    <!-- <a href="https://www.behance.net/prasadgayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="prasadgayan" height="30" width="40" /></a>-->
     <a href="/https://frontxcode.com/feed/" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg"
             alt="https://frontxcode.com/feed/" height="30" width="40" /></a>
-</p>
+             <a href="https://codepen.io/prasadgayan" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
+            alt="prasadgayan" height="30" width="40" /></a>
+</p>        
+</details>
 
-<h3>Streak Stats</h3>
-
+<details open> 
+  <summary><h2>Streak Stats</h2></summary>
 
    [![GitHub Streak](https://streak-stats.demolab.com?user=prasadgayan&theme=gruvbox)](https://git.io/streak-stats)
+</details>
 
-<h3 align="left">Languages and Tools:</h3>
-
-<h4><font clolor="grey">Programming Languages</font></h4>
+<details> 
+  <summary><h2>🛠️ My Favorite Tools</h2></summary>
+        
+- Programming Languages
 <p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a> <a href="https://www.php.net" target="_blank"
@@ -126,14 +128,7 @@
 </p>
 
 - Testing
-<p align="left">
-    <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
-            src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40" /> </a>
-
-    <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg"
-            alt="selenium" width="40" height="40" /> </a>
-</p>
+<p align="left"> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
 
 - Software
 <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
@@ -153,9 +148,11 @@
 - Other
 <p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
+</details>
 
-
-
+<details open> 
+  <summary><h2>Github</h2></summary>
+        
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadgayan&show_icons=true&locale=en&layout=compact"
         alt="prasadgayan" /></p>
@@ -163,3 +160,4 @@
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=prasadgayan&show_icons=true&locale=en"
         alt="prasadgayan" /></p>
+</details>
