@@ -36,9 +36,8 @@
 
 <h3>Streak Stats</h3>
 
-<p>
-    [![GitHub Streak](https://streak-stats.demolab.com?user=prasadgayan&theme=radical)](https://git.io/streak-stats)
-</p>
+
+   [![GitHub Streak](https://streak-stats.demolab.com?user=prasadgayan&theme=gruvbox)](https://git.io/streak-stats)
 
 <h3 align="left">Languages and Tools:</h3>
 
