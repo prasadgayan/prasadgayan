@@ -15,21 +15,20 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    
     <a href="https://linkedin.com/in/prasadgayan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="prasadgayan" height="30" width="40" /></a>
     <a href="https://stackoverflow.com/users/3440497" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
             alt="3440497" height="30" width="40" /></a>
-    <!-- <a href="https://www.behance.net/prasadgayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="prasadgayan" height="30" width="40" /></a>-->
     <a href="/https://frontxcode.com/feed/" target="blank">
         <img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg"
             alt="https://frontxcode.com/feed/" height="30" width="40" /></a>
-        <a href="https://codepen.io/prasadgayan" target="blank"><img align="center"
+             <a href="https://codepen.io/prasadgayan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
             alt="prasadgayan" height="30" width="40" /></a>
+      
 </p>
 
 <h3>Streak Stats</h3>
