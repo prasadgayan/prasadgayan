@@ -15,7 +15,8 @@
 - 📫 How to reach me **dilprasad@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<details open> 
+  <summary><h2>Conect with me</h2></summary>
 <p align="left">
     <a href="https://linkedin.com/in/prasadgayan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -30,13 +31,14 @@
              <a href="https://codepen.io/prasadgayan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
             alt="prasadgayan" height="30" width="40" /></a>
-      
-</p>
+</p>        
+</details>
 
-<h3>Streak Stats</h3>
-
+<details open> 
+  <summary><h2>Streak Stats</h2></summary>
 
    [![GitHub Streak](https://streak-stats.demolab.com?user=prasadgayan&theme=gruvbox)](https://git.io/streak-stats)
+</details>
 
 <details> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
@@ -148,7 +150,9 @@
 
 </details>
 
-
+<details open> 
+  <summary><h2>Github</h2></summary>
+        
 <p><img align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=prasadgayan&show_icons=true&locale=en&layout=compact"
         alt="prasadgayan" /></p>
@@ -156,3 +160,4 @@
 <p>&nbsp;<img align="center"
         src="https://github-readme-stats.vercel.app/api?username=prasadgayan&show_icons=true&locale=en"
         alt="prasadgayan" /></p>
+</details>
