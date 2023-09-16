@@ -31,7 +31,13 @@
              <a href="https://codepen.io/prasadgayan" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"
             alt="prasadgayan" height="30" width="40" /></a>
-</p>        
+</p>    
+
+<a href="https://stackoverflow.com/users/3440497/prasad-gayan" target="_blank">
+<img alt="StackOverflow"
+src="https://stackoverflow-badge.vercel.app/?userID=3440497" />
+</a>
+        
 </details>
 
 <details open> 
