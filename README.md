@@ -46,7 +46,7 @@ src="https://stackoverflow-badge.vercel.app/?userID=3440497" />
    [![GitHub Streak](https://streak-stats.demolab.com?user=prasadgayan&theme=gruvbox)](https://git.io/streak-stats)
 </details>
 
-<details> 
+<details open> 
   <summary><h2>🛠️ My Favorite Tools</h2></summary>
         
 - Programming Languages
